@@ -1,0 +1,5 @@
+.portfolio-container {
+  position: relative; /* Ensure relative positioning for containment */
+  z-index: -1; /* Ensure the portfolio section stays above the mobile menu */
+  border: border-1;
+}
